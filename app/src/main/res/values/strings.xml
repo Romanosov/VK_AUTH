@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Опубликовать Vk</string>
+    <string name="publish_confirm">Опубликовать!</string>
+    <integer name="com_vk_sdk_AppId">5203886</integer>
+</resources>

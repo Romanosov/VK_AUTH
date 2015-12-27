@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="androidsdk-1.6.2">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.vk/androidsdk/1.6.2/jars/classes.jar!/" />
+      <root url="file://$PROJECT_DIR$/app/build/intermediates/exploded-aar/com.vk/androidsdk/1.6.2/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.vk/androidsdk/1.6.2/ceb46bda7e6b37cb1daef0327a4ece6023883ca/androidsdk-1.6.2-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
